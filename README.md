@@ -1,4 +1,4 @@
-# 🚀 React App from Scratch
+# 🚀 React App from Scratch with Webpack
 
 ## 📝 Project Overview
 A custom React application built without Create React App, giving you full control over your development environment.
