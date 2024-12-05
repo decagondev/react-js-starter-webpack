@@ -17,7 +17,7 @@ A custom React application built without Create React App, giving you full contr
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/my-react-app.git
+git clone https://github.com/decagondev/react-js-starter-webpack.git
 cd my-react-app
 npm install
 ```
