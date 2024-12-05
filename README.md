@@ -1,13 +1,13 @@
-# 🚀 React App from Scratch with Webpack
+# 🚀 React TypeScript App from Scratch with Webpack and TypeScript
 
 ## 📝 Project Overview
-A custom React application built without Create React App, giving you full control over your development environment.
+A custom React application with TypeScript, built from scratch for maximum flexibility.
 
 ## 🛠️ Technologies Used
 - React
+- TypeScript
 - Webpack
 - Babel
-- JavaScript (ES6+)
 
 ## 🔧 Prerequisites
 - Node.js (v14+)
@@ -33,15 +33,17 @@ npm run build
 ```
 
 ## 📂 Project Structure
-- `src/`: Source code
+- `src/`: TypeScript source code
 - `public/`: Static assets
 - `webpack.config.js`: Webpack configuration
+- `tsconfig.json`: TypeScript configuration
 - `.babelrc`: Babel configuration
 
 ## 🚀 Features
 - 🔥 Hot reloading
-- 📦 Minimal configuration
-- 🛡️ Customizable build process
+- 📦 TypeScript support
+- 🛡️ Strict type checking
+- 🚀 Minimal configuration
 
 ## 📋 Scripts
 - `npm start`: Start development server
